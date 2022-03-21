@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sonu Kumar
-title: Full Stack Developer
+title: Senior Android Developer | Software Engineer
 email: skbhati199@gmail.com
 # email_title: Email (Email title override)
 phone: 9810659036
@@ -45,33 +45,23 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Talented Android Developer with over 5 years of software and web services development experience in a broad range of industries, including city management, traffic management, 
+  toll system management, PWA, Flutter, Music App, Video Calling app, Short Video App, music App, and mobile gaming. Solid understanding of full mobile and software development 
+  life cycles, UIX, web analytics, changing web standards, and Application methodologies. Dedicated to continuously developing, implementing, and adopting new technologies to 
+  maximize development efficiency and produce innovative applications..
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: CoachedIn
+        title: Feguu And Owner
         link: https//www.fluper.com
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Details
         quote: >
-          Short overview of the project (optional)
+          Feguu And Owner
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Development application like if customer want services like beauty related can do booking,
   - title: Experience
     layout: list
     content:
