@@ -120,6 +120,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           Doctor and Patient consultant Android Application
 
+      - layout: left
+        title: E-commerce DEELZAT ANDROID
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          E-commerce DEELZAT ANDROID
+        description: | # this will include new lines to allow paragraphs
+          Same Letgo Android app and Quickr
+
+      - layout: left
+        title: Highway Saathi OBU
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          EHighway Saathi OBU
+        description: | # this will include new lines to allow paragraphs
+          HIGHWAY SAATHI OBU DEVICE
+
   - title: Experience
     layout: list
     content:
@@ -127,6 +145,49 @@ content:
         title: Fluper Limited
         sub_title: Android Developer
         caption: Date Range (eg. Feb 2020 - present)
+        link: https//www.fluper.com
+        quote: >
+          Mobile Apps Developement 
+        description: | # this will include new lines to allow paragraphs
+          Application Development with Team + design + code + features
+
+      - layout: right
+        title: Fluper Limited
+        sub_title: Android Developer
+        caption: 2 Years 2 Months (Feb 2020 - present)
+        link: https//www.fluper.com
+        quote: >
+          Mobile Apps Developement 
+        description: | # this will include new lines to allow paragraphs
+          Application Development with Team + design + code + features
+
+
+      - layout: right
+        title: Hire Indians InfoTech Pvt Ltd
+        sub_title: Android Developer
+        caption: 6 Months ( Feb 2019 - Jan 2020)
+        link: https//www.hireindians.com
+        quote: >
+          Mobile Apps Developement 
+        description: | # this will include new lines to allow paragraphs
+          Application Development with Team + design + code + features
+
+
+      - layout: right
+        title: Metro Infrasys Private Limited
+        sub_title: Android Developer
+        caption: 3 Years 3 Month (May 2016 - July 2019)
+        link: https//www.metroinfrasys.com
+        quote: >
+          Mobile Apps Developement 
+        description: | # this will include new lines to allow paragraphs
+          Application Development with Team + design + code + features
+
+
+      - layout: right
+        title: Zebrogs Technologies
+        sub_title: Android Developer
+        caption: 9 Months (Aug 2015 - Apr 2016)
         link: https//www.fluper.com
         quote: >
           Mobile Apps Developement 
@@ -142,13 +203,22 @@ content:
         quote: >
           Database, OS, JAVA, C, C++, .Net, etc
         description: | # this will include new lines to allow paragraphs
-          Android Apps 
+          Computer Sciencce
+      - layout: top-right
+        title: IP College
+        sub_title: BCA, Computer Science
+        caption: 2010 - 2013
+        quote: >
+          C, C++. SQL
+        description: | # this will include new lines to allow paragraphs
+          Computer Sciencce
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Talented Android Developer with over 6.5+ years of software and web services development experience in a broad range of industries, including city management, traffic management, 
+      toll system management, PWA, Flutter, Music App, Video Calling app, Short Video App, music App, and mobile gaming. Solid understanding of full mobile and software development 
+      life cycles, UIX, web analytics, changing web standards, and Application methodologies. Dedicated to continuously developing, implementing, and adopting new technologies to 
+      maximize development efficiency and produce innovative applications..
 
 # Footer
 footer_show_references: true
