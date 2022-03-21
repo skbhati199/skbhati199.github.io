@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Talented Android Developer with over 5 years of software and web services development experience in a broad range of industries, including city management, traffic management, 
+  Talented Android Developer with over 6.5+ years of software and web services development experience in a broad range of industries, including city management, traffic management, 
   toll system management, PWA, Flutter, Music App, Video Calling app, Short Video App, music App, and mobile gaming. Solid understanding of full mobile and software development 
   life cycles, UIX, web analytics, changing web standards, and Application methodologies. Dedicated to continuously developing, implementing, and adopting new technologies to 
   maximize development efficiency and produce innovative applications..
@@ -62,6 +62,64 @@ content:
           Feguu And Owner
         description: | # this will include new lines to allow paragraphs
           Development application like if customer want services like beauty related can do booking,
+      - layout: left
+        title: Fudiis Food Services
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          Fudiis Food Services
+        description: | # this will include new lines to allow paragraphs
+          Delivery service food and restaurant services
+      - layout: left
+        title: DynDish Restaurant Services
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          DynDish Restaurant Services
+        description: | # this will include new lines to allow paragraphs
+          It's provide food services online table side, delivery, pickup and curbside
+      - layout: left
+        title: StyleOak
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          StyleOak
+        description: | # this will include new lines to allow paragraphs
+          E COMMERCE ANDROID APP
+      - layout: left
+        title: E-commerce StyleKart Android
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          E-commerce StyleKart Android
+        description: | # this will include new lines to allow paragraphs
+          E COMMERCE ANDROID APP
+      - layout: left
+        title: Quick Serve
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          Quick Serve
+        description: | # this will include new lines to allow paragraphs
+          Like Freelance or urban clap Android App,
+      - layout: left
+        title: Music ANDROID APPLICATION
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          Music ANDROID APPLICATION
+        description: | # this will include new lines to allow paragraphs
+          Maintenance for some issues fix accordingly to Pie
+
+      - layout: left
+        title: Doctor On Demand
+        link: https//www.fluper.com
+        link_text: Details
+        quote: >
+          Doctor On Demand
+        description: | # this will include new lines to allow paragraphs
+          Doctor and Patient consultant Android Application
+
   - title: Experience
     layout: list
     content:
