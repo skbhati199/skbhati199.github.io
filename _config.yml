@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Talented Android Developer with over 6.5+ years of software and web services development experience in a broad range of industries, including city management, traffic management, 
+  Talented Android Developer with over 7+ years of software and web services development experience in a broad range of industries, including city management, traffic management, 
   toll system management, PWA, Flutter, Music App, Video Calling app, Short Video App, music App, and mobile gaming. Solid understanding of full mobile and software development 
   life cycles, UIX, web analytics, changing web standards, and Application methodologies. Dedicated to continuously developing, implementing, and adopting new technologies to 
   maximize development efficiency and produce innovative applications..
@@ -54,6 +54,14 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: TelioEV
+        link: https//www.telioev.com
+        link_text: Details
+        quote: >
+          Telio EV Charging App
+        description: | # this will include new lines to allow paragraphs
+          Developed Telio EV Charging for sustainable mobility infrastructure,
       - layout: left
         title: Feguu And Owner
         link: https//www.fluper.com
@@ -142,9 +150,18 @@ content:
     layout: list
     content:
       - layout: right
+        title: Infoskills Technology Pvt Ltd
+        sub_title: Android Developer
+        caption: Date Range (eg. May 2022 - present)
+        link: https//www.infoskillstechnology.com
+        quote: >
+          React Native/Flutter/Android/iOS Apps Developement 
+        description: | # this will include new lines to allow paragraphs
+          Application Development with Team + design + code + features
+      - layout: right
         title: Fluper Limited
         sub_title: Android Developer
-        caption: Date Range (eg. Feb 2020 - present)
+        caption: Date Range (eg. Feb 2020 - Apr 2022)
         link: https//www.fluper.com
         quote: >
           Mobile Apps Developement 
